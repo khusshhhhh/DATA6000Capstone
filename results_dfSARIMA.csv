@@ -1,0 +1,7 @@
+Category,MAE,MAPE (%),RMSE,R²
+Turnover ;  Total (State) ;  Food retailing ;,166.43,1.17,210.04,0.9428
+Turnover ;  Total (State) ;  Household goods retailing ;,138.87,2.38,173.95,0.9423
+"Turnover ;  Total (State) ;  Clothing, footwear and personal accessory retailing ;",63.67,2.33,87.28,0.9734
+Turnover ;  Total (State) ;  Department stores ;,43.73,2.49,55.24,0.9846
+Turnover ;  Total (State) ;  Other retailing ;,108.52,1.98,139.09,0.9498
+"Turnover ;  Total (State) ;  Cafes, restaurants and takeaway food services ;",93.79,1.76,110.35,0.8443
